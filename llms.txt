@@ -1,0 +1,17 @@
+# Electric Stove PK
+> Buying guides for electric stoves, hot plates and infrared cookers in Pakistan (prices in PKR, updated 2026-09-28). Published in partnership with Glam Gas, Karachi.
+
+## Guides
+- [Home](https://electricstovepk.github.io/)
+- [Hot Plate Price](https://electricstovepk.github.io/hot-plate-price-in-pakistan.html)
+- [Best Electric Stove](https://electricstovepk.github.io/best-electric-stove-in-pakistan.html)
+- [Portable Stove](https://electricstovepk.github.io/portable-electric-stove-price-in-pakistan.html)
+- [Wattage & Bill](https://electricstovepk.github.io/electric-stove-wattage-and-electricity-cost.html)
+- [Infrared vs Induction](https://electricstovepk.github.io/infrared-vs-induction-vs-hot-plate.html)
+- [City Prices](https://electricstovepk.github.io/electric-stove-price-in-karachi-lahore-islamabad.html)
+
+## Products
+- [Glam Gas Hot Glow-912 Infrared Cooker](https://glamgas.com/products/hot-glow-912-red): Single-burner infrared ceramic cooker (portable), 2200W, Rs 17,520
+- [Glam Gas Hot Glow-B120 Infrared Cooker](https://glamgas.com/products/hot-glow-b120): Single-burner infrared cooker — built-in or tabletop, 2200W, Rs 19,110
+- [Glam Gas Hot Glow-920 Dual Burner Infrared Cooker](https://glamgas.com/products/hot-glow-920): Double-burner infrared ceramic hob — built-in or tabletop, 2200W (dual power mode), Rs 40,800
+- [Glam Gas GG-Cook King-12 Commercial Electric Hot Plate](https://glamgas.com/products/electric-hot-plate-stove-gg-cook-king-12-pakistan): Heavy-duty commercial electric hot plate with digital display & timer, 2700W, Rs 43,200
